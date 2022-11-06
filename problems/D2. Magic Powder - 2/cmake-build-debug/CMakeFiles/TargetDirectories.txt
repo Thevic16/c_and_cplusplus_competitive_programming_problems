@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/D2. Magic Powder - 2/cmake-build-debug/CMakeFiles/D2__Magic_Powder___2.dir
+C:/Users/victo/CLionProjects/D2. Magic Powder - 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/D2. Magic Powder - 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

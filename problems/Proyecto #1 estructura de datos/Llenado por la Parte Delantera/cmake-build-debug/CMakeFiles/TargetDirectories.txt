@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Proyecto #1 estructura de datos/Llenado por la Parte Delantera/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Proyecto #1 estructura de datos/Llenado por la Parte Delantera/cmake-build-debug/CMakeFiles/Llenado_por_la_Parte_Delantera.dir
+C:/Users/victo/CLionProjects/Proyecto #1 estructura de datos/Llenado por la Parte Delantera/cmake-build-debug/CMakeFiles/rebuild_cache.dir

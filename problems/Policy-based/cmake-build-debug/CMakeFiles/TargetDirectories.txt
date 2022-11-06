@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Policy-based/cmake-build-debug/CMakeFiles/Policy_based.dir
+C:/Users/victo/CLionProjects/Policy-based/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Policy-based/cmake-build-debug/CMakeFiles/rebuild_cache.dir

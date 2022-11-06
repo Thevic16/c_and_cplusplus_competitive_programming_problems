@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/victo/CLionProjects/memory_game/main.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+conio.c
+-
+ctype.h
+-
+math.h
+-
+

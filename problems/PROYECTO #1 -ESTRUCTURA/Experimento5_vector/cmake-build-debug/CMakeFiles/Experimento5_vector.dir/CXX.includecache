@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/victo/CLionProjects/PROYECTO #1 -ESTRUCTURA/Experimento5_vector/main.cpp
+bits/stdc++.h
+-
+utilapiset.h
+-
+

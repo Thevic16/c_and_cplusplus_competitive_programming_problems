@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Monkey Banana Problem/cmake-build-debug/CMakeFiles/Monkey_Banana_Problem.dir
+C:/Users/victo/CLionProjects/Monkey Banana Problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Monkey Banana Problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

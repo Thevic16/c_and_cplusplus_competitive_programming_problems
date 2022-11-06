@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Proyecto #1 estructura de datos/medir el tiempo/cmake-build-debug/CMakeFiles/medir_el_tiempo.dir
+C:/Users/victo/CLionProjects/Proyecto #1 estructura de datos/medir el tiempo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Proyecto #1 estructura de datos/medir el tiempo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

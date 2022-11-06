@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Recursive_Digit_Sum/cmake-build-debug/CMakeFiles/Recursive_Digit_Sum.dir
+C:/Users/victo/CLionProjects/Recursive_Digit_Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Recursive_Digit_Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Depth First Search or DFS for a Graph/cmake-build-debug/CMakeFiles/Depth_First_Search_or_DFS_for_a_Graph.dir
+C:/Users/victo/CLionProjects/Depth First Search or DFS for a Graph/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Depth First Search or DFS for a Graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir

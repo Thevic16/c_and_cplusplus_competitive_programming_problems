@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/pueba/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/pueba/cmake-build-debug/CMakeFiles/pueba.dir
+C:/Users/victo/CLionProjects/pueba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

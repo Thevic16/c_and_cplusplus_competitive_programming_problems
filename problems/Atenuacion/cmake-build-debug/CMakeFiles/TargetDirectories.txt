@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Atenuacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Atenuacion/cmake-build-debug/CMakeFiles/Atenuacion.dir
+C:/Users/victo/CLionProjects/Atenuacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

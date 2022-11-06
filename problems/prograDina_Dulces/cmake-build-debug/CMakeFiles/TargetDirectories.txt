@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/prograDina_Dulces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/victo/CLionProjects/prograDina_Dulces/cmake-build-debug/CMakeFiles/prograDina_Dulces.dir
+C:/Users/victo/CLionProjects/prograDina_Dulces/cmake-build-debug/CMakeFiles/edit_cache.dir

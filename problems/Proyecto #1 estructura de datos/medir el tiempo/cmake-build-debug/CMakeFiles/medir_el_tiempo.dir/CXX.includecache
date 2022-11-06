@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/victo/CLionProjects/Proyecto #1 estructura de datos/medir el tiempo/main.cpp
+chrono
+-
+chrono
+-
+algorithm
+-
+chrono
+-
+iostream
+-
+vector
+-
+

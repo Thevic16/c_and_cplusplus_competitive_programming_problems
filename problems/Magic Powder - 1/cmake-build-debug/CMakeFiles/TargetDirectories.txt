@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Magic Powder - 1/cmake-build-debug/CMakeFiles/Magic_Powder___1.dir
+C:/Users/victo/CLionProjects/Magic Powder - 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Magic Powder - 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

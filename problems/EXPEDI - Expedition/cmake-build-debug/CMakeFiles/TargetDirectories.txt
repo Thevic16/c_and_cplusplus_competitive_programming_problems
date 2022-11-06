@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/EXPEDI - Expedition/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/EXPEDI - Expedition/cmake-build-debug/CMakeFiles/EXPEDI___Expedition.dir
+C:/Users/victo/CLionProjects/EXPEDI - Expedition/cmake-build-debug/CMakeFiles/rebuild_cache.dir

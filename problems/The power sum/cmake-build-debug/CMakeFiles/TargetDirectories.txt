@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/The power sum/cmake-build-debug/CMakeFiles/The_power_sum.dir
+C:/Users/victo/CLionProjects/The power sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/The power sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

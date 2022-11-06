@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/PROYECTO #1 -ESTRUCTURA/Experimento4_lista/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/victo/CLionProjects/PROYECTO #1 -ESTRUCTURA/Experimento4_lista/cmake-build-debug/CMakeFiles/Experimento4_lista.dir
+C:/Users/victo/CLionProjects/PROYECTO #1 -ESTRUCTURA/Experimento4_lista/cmake-build-debug/CMakeFiles/edit_cache.dir

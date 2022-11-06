@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/Birthday_Cake_Candles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/Birthday_Cake_Candles/cmake-build-debug/CMakeFiles/Birthday_Cake_Candles.dir
+C:/Users/victo/CLionProjects/Birthday_Cake_Candles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
