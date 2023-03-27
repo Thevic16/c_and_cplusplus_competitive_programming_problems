@@ -6,14 +6,6 @@ using namespace std;
 // https://codeforces.com/contest/1800/problem/D
 
 /*
- * Un algoritmo recursivo que la condicion de parada sea cuando el size del string sea n - 2.
- *
- * Tenemos dos optiones remover la letra o no removerla y seguir adelante.
- *
- * Creo que eso puede ser un DP.
- * */
-
-/*
 test case 1
 1
 5
