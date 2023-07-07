@@ -1,0 +1,7 @@
+# ninja log v5
+0	459	1688573407142453522	CMakeFiles/binary_search_example.dir/main.cpp.o	53dc1f040ba6d580
+460	548	1688573407230454954	binary_search_example	f33ff6068d3b0530
+0	1023	1688573632768409577	CMakeFiles/binary_search_example.dir/main.cpp.o	53dc1f040ba6d580
+1023	1390	1688573633152388470	binary_search_example	f33ff6068d3b0530
+0	116	1688573740375093796	CMakeFiles/binary_search_example.dir/main.cpp.o	53dc1f040ba6d580
+116	159	1688573740419091852	binary_search_example	f33ff6068d3b0530
